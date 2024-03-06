@@ -39,7 +39,8 @@ dependencies:
   cloud_firestore: ^4.15.6
   firebase_auth: ^4.17.6
   google_sign_in: ^6.2.1
-  jitsi_meet_fix: ^4.0.5
+  jitsi_meet_fix: 
+    path: local_packages/jitsi_meet_fix-4.0.5
   intl: ^0.19.0
 
 dev_dependencies:
@@ -66,7 +67,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - /Users/vandriadis/Desktop/mobile_projects/with_us/assets/images/onboarding (1).jpg
+    - assets/images/onboarding%20(1).jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

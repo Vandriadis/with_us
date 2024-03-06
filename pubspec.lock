@@ -235,10 +235,9 @@ packages:
   jitsi_meet_fix:
     dependency: "direct main"
     description:
-      name: jitsi_meet_fix
-      sha256: "7b70b1cb9fd583c959e9570d67b4f77daa56dfc477699e2a7667d498e0078579"
-      url: "https://pub.dev"
-    source: hosted
+      path: "local_packages/jitsi_meet_fix-4.0.5"
+      relative: true
+    source: path
     version: "4.0.5"
   jitsi_meet_platform_interface:
     dependency: transitive
