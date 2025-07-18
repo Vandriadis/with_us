@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCqtusS-k0MahwNR0WlYWUslzZ7unF0M74',
-    appId: '1:950734323122:web:3842f5ecd2f1f9a881b8ab',
-    messagingSenderId: '950734323122',
-    projectId: 'withus-1cc66',
-    authDomain: 'withus-1cc66.firebaseapp.com',
-    storageBucket: 'withus-1cc66.appspot.com',
-    measurementId: 'G-WPYJJKQ6FE',
+    apiKey: 'AIzaxxxqtusS-k0MxxxxxxxxunF0M74',
+    appId: '1:9xxxxxx122:web:3842f5xxxxxxxxab',
+    messagingSenderId: '950xxxxxxxx22',
+    projectId: 'wxxxxxxxxs-xxxxxxxx66',
+    authDomain: 'witxxxxxxxxc66.firebaseapp.com',
+    storageBucket: 'wixxxxxxxxxxxxxxxx6.apxxxxxxxxot.com',
+    measurementId: 'G-WPxxxxxxxx6FE',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCpG8jt4SilTvPj62hpFsB-dLj076qJnwk',
-    appId: '1:950734323122:android:5b72604ca225d2eb81b8ab',
-    messagingSenderId: '950734323122',
-    projectId: 'withus-1cc66',
-    storageBucket: 'withus-1cc66.appspot.com',
+    apiKey: 'AIzaxxxxxxxx62hpFsB-dLjxxxxxxxxnwk',
+    appId: '1:95xxxxxxxx323122:android:5b72xxxxxxxxb81b8ab',
+    messagingSenderId: '95xxxxxxxx122',
+    projectId: 'witxxxxxxxx66',
+    storageBucket: 'withusxxxxxxxxppspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAxHVG3azKFFXIpJyQAEoAyBupoM0IR6J4',
-    appId: '1:950734323122:ios:8662a22fff73a9aa81b8ab',
-    messagingSenderId: '950734323122',
-    projectId: 'withus-1cc66',
-    storageBucket: 'withus-1cc66.appspot.com',
+    apiKey: 'AIzaSyAxHVG3azKFxxxxxxxxupoM0IR6J4',
+    appId: '1:95xxxxxxxx3122:ios:8662xxxxxxxxa81b8ab',
+    messagingSenderId: '95xxxxxxxx3122',
+    projectId: 'wixxxxxxxx66',
+    storageBucket: 'withusxxxxxxxxot.com',
     iosBundleId: 'com.example.withUs',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAxHVG3azKFFXIpJyQAEoAyBupoM0IR6J4',
-    appId: '1:950734323122:ios:b25c6e84783975a781b8ab',
-    messagingSenderId: '950734323122',
-    projectId: 'withus-1cc66',
-    storageBucket: 'withus-1cc66.appspot.com',
+    apiKey: 'AIzaSyAxxxxxxxxoM0IR6J4',
+    appId: '1:9xxxxxxxx3122:ios:b2xxxxxxxx75a781b8ab',
+    messagingSenderId: '95xxxxxxxx122',
+    projectId: 'xxxxxxxxc66',
+    storageBucket: 'withxxxxxxxxcom',
     iosBundleId: 'com.example.withUs.RunnerTests',
   );
 }
